@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @TomDale-SINE
+- Lead Frontend Developer @SINEDigital
